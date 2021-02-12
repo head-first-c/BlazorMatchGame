@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.808.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorMatchGame", "BlazorMatchGame\BlazorMatchGame.csproj", "{D6F593E1-651C-4951-A370-C363D8D8B392}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F3240311-77CB-4573-8462-3C40013FBD50}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
